@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MESSAGE="Hello World"
+MESSAGE="Hello World coming home"
 
 echo $MESSAGE
 
